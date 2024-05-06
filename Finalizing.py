@@ -185,5 +185,3 @@ print("Generated Text Files:")
 for text_file in txt_files:
     print(text_file)
 txt_files.clear()
-
-#Error 'float' object has no attribute 'fillna'
